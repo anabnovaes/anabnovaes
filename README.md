@@ -25,7 +25,7 @@ Onde me encontrar? :mag:
 
 <a href="https://www.instagram.com/ana_bnovaes/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/ana_bnovaes)  
 
-<a href="https://www.linkedin.com/in/anabnovaes"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/ana_bnovaes)  
+<a href="https://www.linkedin.com/in/anabnovaes"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/anabnovaes)  
 
 <a href="mailto:ana-paula1503@hotmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:ana-paula1503@hotmail.com)  
 
