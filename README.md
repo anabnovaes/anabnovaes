@@ -11,7 +11,7 @@
 
 ---
 
-Sou Support Engineer, atuo no setor de suporte desde 2016 (e desde 2015 estudando informática :scream:) e sou graduanda em Análise e desenvolvimento de sistemas. 
+Me chamo Ana, sou Support Engineer, atuo no setor de suporte desde 2016 (e desde 2015 estudando informática :scream:) e sou graduanda em Análise e desenvolvimento de sistemas. 
 No segundo semestre de 2019 retomei os estudos em desenvolvimento de sistemas, concluí a terceira turma de backend na Reprograma e atualmente sou cadete na 42 São Paulo
 
 
