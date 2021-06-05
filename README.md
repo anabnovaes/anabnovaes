@@ -32,3 +32,5 @@ Onde me encontrar? :mag:
 ---  
 
 ![](https://komarev.com/ghpvc/?username=anabnovaes&color=blue&style=flat)
+
+[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?cursus=42Cursus)](https://github.com/JaeSeoKim/badge42)
