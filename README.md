@@ -2,7 +2,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabnovaes&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?cursus=42cursus&privacyEmail=true)](https://github.com/JaeSeoKim/badge42)"/></td>
+        <td><align="left" src="https://badge42.herokuapp.com/api/stats/apaula-b?cursus=42cursus&privacyEmail=true)"/></td>
     </tr>   
   </table>
 </center>  
