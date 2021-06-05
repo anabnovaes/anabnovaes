@@ -2,7 +2,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabnovaes&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabnovaes&theme=buefy"/></td>
+        <td><img width="495px" align="left" src="[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?cursus=42cursus&privacyEmail=true)](https://github.com/JaeSeoKim/badge42)"/></td>
     </tr>   
   </table>
 </center>  
@@ -19,7 +19,7 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
  
 ---
 
-[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b)](https://github.com/JaeSeoKim/badge42)
+
 
 Onde me encontrar? :mag:  
 
