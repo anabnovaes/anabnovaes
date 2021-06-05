@@ -7,7 +7,7 @@
   </table>
 </center>  
 
-[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?privacyEmail=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 
 ### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
