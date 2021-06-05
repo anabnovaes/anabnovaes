@@ -19,6 +19,8 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
  
 ---
 
+[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b)](https://github.com/JaeSeoKim/badge42)
+
 Onde me encontrar? :mag:  
 
 <a href="https://twitter.com/ana_bnovaes"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/ana_bnovaes)   
@@ -33,4 +35,4 @@ Onde me encontrar? :mag:
 
 ![](https://komarev.com/ghpvc/?username=anabnovaes&color=blue&style=flat)
 
-[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?cursus=42Cursus)](https://github.com/JaeSeoKim/badge42)
+
