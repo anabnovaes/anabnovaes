@@ -28,7 +28,7 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft-42)                 | ✅     |   | 8   | Push_swap     | 🔒     |   | 15  | webserv/ft_irc                 | 🔒     |
-| 2   | [netwhat]                                  | ✅     |   | 9   | Minishell     | 🔒     |   | 16  | transcendence                  | 🔒     |
+| 2   | netwhat                                    | ✅     |   | 9   | Minishell     | 🔒     |   | 16  | transcendence                  | 🔒     |
 | 3   | [get_next_line](../../../get-next-line-42) | ✅     |   | 10  | Philosophers  | 🔒     | 
 | 4   | [Ft_printf](../../../ft_printf)            | 📝     |   | 11  | Cub3D/MiniRT  | 🔒     |
 | 5   | Born2beroot                                | 📝     |   | 12  | CPP           | 🔒     |
