@@ -24,7 +24,9 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
 [![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 
-## Projetos finalizados 💪🏻
+
+
+## Progresso projetos
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft-42)                 | ✅     |   | 8   | Push_swap     | 🔒     |   | 15  | webserv/ft_irc                 | 🔒     |
@@ -34,6 +36,10 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
 | 5   | Born2beroot                                | 📝     |   | 12  | CPP           | 🔒     |
 | 6   | Fractol/FDF/Epikong                        | 🔒     |   | 13  | ft_containers | 🔒     |  
 | 7   | Pipex/Minitalk                             | 🔒     |   | 14  | Inception     | 🔒     |   
+
+
+
+
 
 
 Onde me encontrar? :mag:  
