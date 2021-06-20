@@ -39,10 +39,10 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
 
 
 
+---
 
 
-
-Onde me encontrar? :mag:  
+# Onde me encontrar? :mag:  
 
 <a href="https://twitter.com/ana_bnovaes"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/ana_bnovaes)   
 
