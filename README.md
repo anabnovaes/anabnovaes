@@ -25,8 +25,7 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
 
 
 
-
-## Progresso atual
+<h3> Progresso atual </h3>
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft-42)                 | ✅     |   | 8   | Push_swap     | 🔒     |   | 15  | webserv/ft_irc                 | 🔒     |
