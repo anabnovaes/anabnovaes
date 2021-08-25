@@ -13,8 +13,8 @@
 
 ---
 
-Me chamo Ana, sou Software Engineer, atuo no setor de suporte desde 2016 e sou graduada em Análise e desenvolvimento de sistemas. 
-No segundo semestre de 2019 retomei os estudos em desenvolvimento de sistemas, concluí a terceira turma de backend na Reprograma e atualmente sou cadete na 42 São Paulo.
+Me chamo Ana, sou Software Engineer, atuo no setor de suporte desde 2016 e sou graduada em Análise e desenvolvimento de sistemas e em jul/21 iniciei a trabalhar no setor de desenvolvimento de sistemas. 
+No segundo semestre de 2019 retomei os estudos em programação concluí a terceira turma de backend na Reprograma em dezembro de 2019 e atualmente sou cadete na 42 São Paulo.
 
 
 Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
