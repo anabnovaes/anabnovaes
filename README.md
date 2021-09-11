@@ -26,9 +26,9 @@ PT 🇧🇷
 
 Me chamo Ana, sou Software Engineer e sou graduada em Análise e desenvolvimento de sistemas. Atuei no setor de customer experience desde 2016 e em jul/21 migrei para o setor de desenvolvimento de sistemas. 
 
-<br><br> Sou ex aluna da terceira turma de backend na Reprograma finalizada em dezembro de 2019 e atualmente sou cadete na 42 São Paulo.
+Sou ex aluna da terceira turma de backend na Reprograma finalizada em dezembro de 2019 e atualmente sou cadete na 42 São Paulo.
 
-<br><br>Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
+Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
  
 ---
 
