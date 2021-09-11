@@ -9,12 +9,23 @@
 
 
 
-### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+### Welcome! :) || Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 ---
 
-Me chamo Ana, sou Software Engineer, atuo no setor de suporte desde 2016 e sou graduada em Análise e desenvolvimento de sistemas e em jul/21 iniciei a trabalhar no setor de desenvolvimento de sistemas. 
-No segundo semestre de 2019 retomei os estudos em programação concluí a terceira turma de backend na Reprograma em dezembro de 2019 e atualmente sou cadete na 42 São Paulo.
+EN
+
+Hello! My name is Ana, I'm working as a Software Engineer since Jul/21. I have a degree in System Analysis and 5+ years of experience with Customer Experience before work with development.
+
+I studied backend at Reprograma (Sep to Dec/19) and I’m currently a student at 42 São Paulo. 
+
+In my free time I love swimming 🏊‍, reading 📚 and watching Nefflix 🍿.
+
+
+PT
+
+Me chamo Ana, sou Software Engineer e sou graduada em Análise e desenvolvimento de sistemas. Atuei no setor de customer experience desde 2016 e em jul/21 migrei para o setor de desenvolvimento de sistemas. 
+Sou ex aluna da terceira turma de backend na Reprograma finalizada em dezembro de 2019 e atualmente sou cadete na 42 São Paulo.
 
 
 Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
@@ -33,7 +44,7 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
 | 1   | [Libft](../../../libft-42)                 | ✅     |   | 8   | Push_swap     | 🔒     |   | 15  | webserv/ft_irc                 | 🔒     |
 | 2   | netwhat                                    | ✅     |   | 9   | Minishell     | 🔒     |   | 16  | transcendence                  | 🔒     |
 | 3   | [get_next_line](../../../get-next-line-42) | ✅     |   | 10  | Philosophers  | 🔒     | 
-| 4   | [Ft_printf](../../../ft_printf)            | 📝     |   | 11  | Cub3D/MiniRT  | 🔒     |
+| 4   | [Ft_printf](../../../ft_printf)            | ✅     |   | 11  | Cub3D/MiniRT  | 🔒     |
 | 5   | Born2beroot                                | 📝     |   | 12  | CPP           | 🔒     |
 | 6   | Fractol/FDF/Epikong                        | 🔒     |   | 13  | ft_containers | 🔒     |  
 | 7   | Pipex/Minitalk                             | 🔒     |   | 14  | Inception     | 🔒     |   
