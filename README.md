@@ -15,7 +15,7 @@
 
 EN 🇳🇿
 
-Hello! My name is Ana, I'm working as a Software Engineer since Jul/21. I have a degree in System Analysis and 5+ years of experience with Customer Experience before work with development.
+Hello! My name is Ana, I'm working as a Software Engineer since Jul/21. I have a degree in System Analysis and 5+ years of experience with Customer Experience.
 
 I studied backend at Reprograma (Sep to Dec/19) and I’m currently a student at 42 São Paulo. 
 
