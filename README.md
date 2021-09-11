@@ -13,7 +13,7 @@
 
 ---
 
-EN
+EN 🇳🇿
 
 Hello! My name is Ana, I'm working as a Software Engineer since Jul/21. I have a degree in System Analysis and 5+ years of experience with Customer Experience before work with development.
 
@@ -22,10 +22,10 @@ I studied backend at Reprograma (Sep to Dec/19) and I’m currently a student at
 In my free time I love swimming 🏊‍, reading 📚 and watching Nefflix 🍿.
 
 
-PT
+PT 🇧🇷
 
 Me chamo Ana, sou Software Engineer e sou graduada em Análise e desenvolvimento de sistemas. Atuei no setor de customer experience desde 2016 e em jul/21 migrei para o setor de desenvolvimento de sistemas. 
-Sou ex aluna da terceira turma de backend na Reprograma finalizada em dezembro de 2019 e atualmente sou cadete na 42 São Paulo.
+<br> Sou ex aluna da terceira turma de backend na Reprograma finalizada em dezembro de 2019 e atualmente sou cadete na 42 São Paulo.
 
 
 Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
