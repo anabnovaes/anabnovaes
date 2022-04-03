@@ -32,7 +32,7 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
  
 ---
 
-[![Ana's 42 stats](https://badge42.herokuapp.com/api/stats/apaula-b?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+
 
 
 
