@@ -46,7 +46,7 @@ Amo nadar 🏊‍ , ler 📚  e maratonar séries 🍿
 | 3   | [get_next_line](../../../get-next-line-42) | ✅     |   | 10  | Philosophers  | 🔒     | 
 | 4   | [Ft_printf](../../../ft_printf)            | ✅     |   | 11  | Cub3D/MiniRT  | 🔒     |
 | 5   | Born2beroot                                | ✅     |   | 12  | CPP           | 🔒     |
-| 6   | Fractol/FDF/so_long                        | 📝     |   | 13  | ft_containers | 🔒     |  
+| 6   | [so_long](../../../so_long)                | 📝     |   | 13  | ft_containers | 🔒     |  
 | 7   | Pipex/Minitalk                             | 🔒     |   | 14  | Inception     | 🔒     |   
 
 
